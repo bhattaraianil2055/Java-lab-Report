@@ -12,6 +12,6 @@ public class OddEven {
         else {
             System.out.println("the entered number is odd");
         }
-        System.out.println("Pukar Upreti 15772");
+        System.out.println("Anil Bhattarai 15741");
     }
 }
